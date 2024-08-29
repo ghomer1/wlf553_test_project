@@ -1,0 +1,14 @@
+.Rproj.user/
+outputs/
+data/
+processed_data/
+.Rhistory
+*.docx
+*.pdf
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+*.png
+*.gif
+*.xlsx
