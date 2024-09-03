@@ -12,5 +12,6 @@ processed_data/
 *.png
 *.gif
 *.xlsx
+*.csv
 *.shp
 *.md
